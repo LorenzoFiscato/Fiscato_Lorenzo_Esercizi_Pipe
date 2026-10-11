@@ -1,0 +1,12 @@
+.idea/
+cmake-build-*/
+*.i
+*.s
+*.o
+*.obj
+*.out
+*.exe
+*.app
+*.log
+.DS_Store
+Thumbs.db
